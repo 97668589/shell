@@ -4,7 +4,7 @@
 
 # install besttrace
 if [ ! -f "besttrace2021" ]; then
-    wget https://github.com/zq/shell/raw/master/besttrace2021
+    wget https://github.com/97668589/shell/raw/master/besttrace2021
     # unzip besttrace4linux.zip
     chmod +x besttrace2021
 fi
